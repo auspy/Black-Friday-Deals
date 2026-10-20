@@ -270,7 +270,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |
-| 💸 | [SupaSidebar](https://www.supasidebar.com/?utm_source=mrs-github&utm_campaign=bf2026) | Arc-like sidebar for every Mac browser. See and fuzzy search all your open tabs in one list. | **70% OFF** Lifetime for the first 100 buyers, code **SIDEBARBF70** |
+| 💸 | [SupaSidebar](https://supasidebar.com?ref=mrs) | Arc-like sidebar for all Mac browsers. See open tabs, bookmarks and history from every browser in one place. Also fuzzy search them, auto route links and more. | **70% OFF** Lifetime for the first 100 buyers, code **SIDEBARBF70** |
 | 💰 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
 | 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
