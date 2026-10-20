@@ -176,6 +176,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
 | 💰 | [Best time to post Reddit](https://reddit.postwatch.app) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
+| 💸 | [Supacite](https://supacite.com?ref=mrs) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -539,6 +540,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
 | 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
 | 💰  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
+| 💸 | [Supacite](https://supacite.com?ref=mrs) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
